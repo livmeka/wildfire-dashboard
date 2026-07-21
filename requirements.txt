@@ -1,0 +1,8 @@
+panel==1.9.3
+hvplot==0.12.2
+holoviews==1.23.1
+geoviews==1.15.1
+bokeh==3.9.1
+param==2.4.1
+pandas==3.0.3
+numpy==2.5.1
